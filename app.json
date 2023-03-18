@@ -1,0 +1,39 @@
+{
+
+  "name": "Saturo-Gojo-Bot",
+
+  "description": "Gets Mnaga Files.",
+
+  "keywords": ["manga","python"],
+
+  "repository": "",
+
+  "env": {
+
+    "BOT_TOKEN": {
+
+      "description": "Your bot token, as a string.",
+
+      "value": "6220038329:AAHyutBwfWIct0yhJ2t5HPoSa0KDDzlfImk"
+
+    },
+
+    "API_ID": {
+
+      "description": "Get this value from https://my.telegram.org",
+
+      "value": "25004026"
+
+    },
+
+    "API_HASH": {
+
+      "description": "Get this value from https://my.telegram.org",
+
+      "value": "c099cac9cb4e8e15398db4dd40342568"
+
+    }
+
+  }
+
+}
